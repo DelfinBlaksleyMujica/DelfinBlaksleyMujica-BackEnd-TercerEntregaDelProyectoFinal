@@ -1,0 +1,15 @@
+{"level":"warn","message":"Ruta GET / no implementada"}
+{"level":"warn","message":"Ruta GET /api/carritos/644f32a14d6340bc6a15ada4/productos/6442a80d21eb318553ce0572 no implementada"}
+{"level":"error","message":"Error en el get de productos"}
+{"level":"error","message":"Error en el get de productos"}
+{"level":"error","message":"Error en el get de productos"}
+{"level":"warn","message":"Ruta GET / no implementada"}
+{"level":"error","message":"Error en la autorizacion de ingreso de usuario"}
+{"level":"error","message":"Error en la autorizacion de ingreso de usuario"}
+{"level":"error","message":"Error en la autorizacion de ingreso de usuario"}
+{"level":"warn","message":"Ruta GET / no implementada"}
+{"level":"warn","message":"Ruta GET / no implementada"}
+{"level":"warn","message":"Ruta GET / no implementada"}
+{"level":"error","message":"Error en la autorizacion de ingreso de usuario"}
+{"level":"error","message":"Error en la autorizacion de ingreso de usuario"}
+{"level":"warn","message":"Ruta GET /signup no implementada"}
